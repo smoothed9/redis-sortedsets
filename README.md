@@ -7,4 +7,4 @@ use cases.
 Use Case 1: Retrieve a single Row
 Use Case 2: Retrieve multiple Rows  
 
-For more details about this project, please refer to my blog @ <link> 
+For more details about this project, please refer to my blog @ https://medium.com/@smoothed9/redis-sorted-sets-with-spring-boot-and-jedis-f44c73115e05
